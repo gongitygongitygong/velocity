@@ -1,0 +1,45 @@
+{
+    "name": "VELOCITY",
+    "description": "Raycast 2.5d horror game built entirely in Makecode Arcade. Heavily inspired by All Is Red, the map and the jumpscares were from there! Disclaimer: jumpscares, flashing lights, do not play if heart condition or epilepsy.",
+    "dependencies": {
+        "device": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.15",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "pxt-sight": "github:felixtsu/pxt-sight#v0.2.2",
+        "pathfinding": "github:king5232/pxt-pathfinding#v1.1.0",
+        "TilemapPath": "github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca",
+        "pxt-beta-screen-effects": "github:kiwiphoenix364/pxt-beta-screen-effects#v0.0.26",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "browser-events": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.21",
+        "tag": "v1.12.21",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0cb2da5a909e7062f4a7611a9c2d9f35446a3657",
+        "target": "4.0.7",
+        "pxt": "8.5.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
