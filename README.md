@@ -74,7 +74,7 @@ EXPECTED TIME: 10-15 Minutes.
 NOTE: 
 The server is old, so you might experience some visual 
 lag or "static" glitches. Just a side effect of the 
-dated 1998 hardware.
+dated 1990s hardware.
 ```
 
 
