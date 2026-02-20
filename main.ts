@@ -709,6 +709,7 @@ function Start_level () {
     DataDots()
     color.startFade(color.Black, color.originalPalette)
     finis = 1
+    cutscene = 1
     pause(300)
     for (let index = 0; index < 30; index++) {
         Render.setViewAngleInDegree(lookdir)
@@ -728,6 +729,7 @@ function Start_level () {
         lookdir += 1
     }
     finis = 0
+    cutscene = 0
 }
 function Place_Scarlet1 () {
     console.log("scarlet 1 created")
