@@ -27,24 +27,24 @@
 S.C.A.R.L.E.T.
 Synchronous Core Adaptive Routing Light-speed Execution Technology
 
-The Future of Maze-Resolution is Here.
-Aether Motive’s flagship module is designed for instantaneous traversal
-of complex logical architectures. By utilizing Synchronous Core processing,
-the S.C.A.R.L.E.T. unit doesn't just navigate—it executes.
+The Future of Maze-Solving is Here.
+Aether Motive’s flagship maze solving control module is designed for instantaneous traversal
+of complex mazes, designed to dominate micromouse competitions. By utilizing Synchronous Core
+processing, the S.C.A.R.L.E.T. unit doesn't just navigate—it executes.
 ```
 
 
 ```
 THE SILICON TIMES | TECH BEAT
-September 14, 2010
+September 14, 2000
 
 SILENCE FROM THE FASTEST MOUSE IN THE WEST?
-It has been over eighteen months since Aether Motive made its world-shaking
+It has been over 5 years since Aether Motive made its world-shaking
 claim to have engineered the "Perfect Maze-Solving Bot" capable of near-light
 speed traversal. After the initial hype surrounding their S.C.A.R.L.E.T.
 (Synchronous Core Adaptive Routing Light-speed Execution Technology) module,
 the once-vocal startup has gone completely dark. Calls to their headquarters go unanswered,
-and their main testing server—rumored to be a massive 240MB architecture—has stopped
+and their main testing server, rumored to be a massive 240MB architecture, has stopped
 sending outgoing pings to the local node. While industry insiders expected a triumphant
 product launch this quarter, the only thing coming out of Aether Motive these days is a chilling,
 static silence. Whether they’ve achieved the "Perfect Run" or simply run out of steam remains a
@@ -53,7 +53,7 @@ mystery, but for now, the industry’s fastest mouse appears to have vanished in
 
 
 ```
-DATE: NOVEMBER 2023
+DATE: 18 NOVEMBER 2010
 REF: [REDACTED]
 FEE: $500.00 (Flat Rate)
 
